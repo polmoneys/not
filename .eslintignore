@@ -1,0 +1,4 @@
+*.css
+*.svg
+src/not-fc.test.ts
+src/not.test.ts
